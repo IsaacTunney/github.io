@@ -1,0 +1,6 @@
+title: My Portfolio
+description: A showcase of my projects and work
+theme: minima
+
+# Custom styles
+markdown: kramdown
